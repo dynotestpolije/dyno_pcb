@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "YAAJ_BlackPill_Part_Like_SWD_Breakout")(type "KiCad")(uri "/home/riz/Downloads/Kicad-STM32-master/Symbols/YAAJ_BlackPill_Part_Like_SWD_Breakout.kicad_sym")(options "")(descr ""))
+  (lib (name "YAAJ_WeAct_BlackPill_Part_Like_SWD_Breakout")(type "KiCad")(uri "/home/riz/Downloads/Kicad-STM32-master/Symbols/YAAJ_WeAct_BlackPill_Part_Like_SWD_Breakout.kicad_sym")(options "")(descr ""))
+  (lib (name "TLP-621-GR")(type "KiCad")(uri "/home/riz/Documents/Kicad/ul_TLP621-D4-GB/KiCAD/2023-03-23_19-15-11/2023-03-23_19-15-11.kicad_sym")(options "")(descr ""))
+  (lib (name "YAAJ_BluePill_SWD_Breakout")(type "KiCad")(uri "/home/riz/Documents/Kicad/STM32/Symbols/YAAJ_BluePill_SWD_Breakout.kicad_sym")(options "")(descr ""))
+  (lib (name "YAAJ_BluePill_Part_Like_SWD_Breakout")(type "KiCad")(uri "/home/riz/Documents/Kicad/STM32/Symbols/YAAJ_BluePill_Part_Like_SWD_Breakout.kicad_sym")(options "")(descr ""))
+  (lib (name "ul_TLP621")(type "KiCad")(uri "/home/riz/Documents/Kicad/ul_TLP621-D4-GB/ul_TLP621.kicad_sym")(options "")(descr ""))
+  (lib (name "YAAJ_WeAct_BlackPill_Part_Like")(type "KiCad")(uri "/home/riz/Documents/Kicad/STM32/Symbols/YAAJ_WeAct_BlackPill_Part_Like.kicad_sym")(options "")(descr ""))
+)
